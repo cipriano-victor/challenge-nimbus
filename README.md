@@ -1,4 +1,4 @@
-# challenge-nimbus
+# challenge-nimble
 
 Minimal local React starter using Vite + TypeScript.
 
