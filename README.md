@@ -48,6 +48,7 @@ with:
   "uuid": "logged user uuid",
   "jobId": "selected job id",
   "candidateId": "logged user candidateId",
+  "applicationId": "logged user applicationId",
   "repoUrl": "typed GitHub repo URL"
 }
 ```

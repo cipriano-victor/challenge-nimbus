@@ -129,6 +129,7 @@ function OpenPositionsList({
           uuid: user.uuid,
           jobId,
           candidateId: user.candidateId,
+          applicationId: user.applicationId,
           repoUrl: githubUrl,
         }),
       })
